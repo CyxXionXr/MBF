@@ -6,8 +6,14 @@ Jangan gunakan akun pribadi, karna ada bot cookiesnya, jika anda melanggar perat
 # PERINTAH
 
 $ apt update
+
 $ apt upgrade -y
+
 $ pkg install git
+
 $ git clone https://github.com/CyxXionXr/MBF
+
 $ cd MBF
+
 $ python MBF.py
+
